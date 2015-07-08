@@ -16,7 +16,7 @@ from sklearn import svm
 digits = datasets.load_digits()
 
 #specifying the classifier
-clf = svm.SVC(gamma = 0.00001, C = 60)
+clf = svm.SVC(gamma = 0.01, C = 60)
 
 #print(len(digits.data))
 
