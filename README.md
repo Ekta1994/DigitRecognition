@@ -1,5 +1,5 @@
 # DigitRecognition
-Recognising digits using machine learning
+
 
 Machine Learning in python is very easy using scikit-learn. Scikit is an pen source machine learning library for python. It features various classification, regression and clustering algoritms using support vector machines, naive Bayes etc. 
 
@@ -13,6 +13,9 @@ Installation:
  You can also run these commands if you an up-to-date version of Python2 or Python3.
  
 pip install numpy
+
 pip install scipy
+
 pip install matplotlib
+
 pip install scikit-learn
