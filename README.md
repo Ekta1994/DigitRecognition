@@ -23,11 +23,13 @@ pip install matplotlib
 pip install scikit-learn
 
 
-It's better to use Anaconda version if you want to eperiment with machine learning stuff because many of the libraries come installed with the distribution. 
+It's better to use Anaconda distribution if you want to eperiment with machine learning stuff because many of the libraries come installed with the distribution. 
 
 The code presents the svm approach. For theory of SVM, go to references.
 
 #References
+
+https://en.wikipedia.org/wiki/Support_vector_machine
 
 http://www.quora.com/What-are-Kernels-in-Machine-Learning-and-SVM
 
