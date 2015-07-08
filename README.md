@@ -1,9 +1,9 @@
 # DigitRecognition
 
 
-Machine Learning in python is very easy using scikit-learn. Scikit is an pen source machine learning library for python. It features various classification, regression and clustering algoritms using support vector machines, naive Bayes etc. 
+Machine Learning in python is very easy using scikit-learn. Scikit is an open source machine learning library for python. It features various classification, regression and clustering algoritms using support vector machines, naive Bayes etc. 
 
-This project aims at recognising the handwritten digits. We're going to use a pre-existing data set that everyone has that has come with their installation of Scikit-Learn. One of the data sets, digits, contains an already structured and labeled set of samples that contains pixel information for numbers up to 9 that we can use for training and testing.
+This project aims at recognising the handwritten digits. We're going to use a pre-existing data set that everyone has which comes with the installation of Scikit-Learn. One of the data sets, digits, contains an already structured and labeled set of samples that contains pixel information for numbers up to 9 that we can use for training and testing.
 
 Installation:
  We'll need the following:
