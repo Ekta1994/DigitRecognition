@@ -2,8 +2,10 @@
 """
 Created on Thu Jul  2 20:17:46 2015
 
-@author: Eku
+@author: Ekta
 """
+
+#Digit Recognition using svm
 
 #pyplot is used to actually plt a chart
 #datasets are used as the sample dataset
